@@ -1,5 +1,3 @@
-Here is a README file for your code that performs basic arithmetic operations on two input numbers:
-
 # Simple Arithmetic Operations
 
 ## Description
