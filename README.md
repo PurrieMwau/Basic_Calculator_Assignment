@@ -38,6 +38,5 @@ print(f"Product: {product_result}")
 print(f"Quotient: {quotient_result}")  
 print("Error: Cannot divide by zero")
 ```
-- You could enhance this script to handle invalid input or add more operations.
 
-If you want, I can also help you improve the code to properly handle division by zero and other cases.
+If you want, I can also help you improve the code to properly handle divisioy zero and other cases.
